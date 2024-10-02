@@ -1,4 +1,4 @@
-#Vamos a importar la biblioteca Pandas y la llamamos pd
+ven#Vamos a importar la biblioteca Pandas y la llamamos pd
 import pandas as pd
 psg_players = pd.Series(
     ['Navas', 'Mbappe', 'Neymar', 'Messi'],
