@@ -1,6 +1,6 @@
 import pandas as pd
 
-path = 'online_retail.csv'
+path = 'Online_Retail.csv'
 
 retail_data = pd.read_csv(path, encoding='latin1')
 
